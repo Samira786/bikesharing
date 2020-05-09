@@ -6,6 +6,8 @@ Data Sources: Citi Bike August 2019, McDonald's locations in NY and IA, QuickFac
 
 Software: Tableau<br />
 
+Public Tableau Link: https://public.tableau.com/profile/samben#!/vizhome/BikeSharingStory/BikeSharingStory <br />
+
 ### Population (Figure 1)
 This chart displays the Gender breakdown for CitiBike usage in NYC, a total of 2,344,224 and CitiBike customers (443,865). We also look at the population and gender make up between both cities.
 Altogether, 28% of people in NYC use CitiBike (38% of Males and 13% of Females). While the population for NYC is significantly higher than Des Moines, more information will be needed about the cities to determine whether a bikesharing business in Des Moines will be a good decision.
