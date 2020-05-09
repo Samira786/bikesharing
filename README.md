@@ -9,6 +9,7 @@ Software: Tableau<br />
 ### Population (Figure 1)
 This chart displays the Gender breakdown for CitiBike usage in NYC, a total of 2,344,224 and CitiBike customers (443,865). We also look at the population and gender make up between both cities.
 Altogether, 28% of people in NYC use CitiBike (38% of Males and 13% of Females). While the population for NYC is significantly higher than Des Moines, more information will be needed about the cities to determine whether a bikesharing business in Des Moines will be a good decision.
+[Figure 1]!(https://github.com/Samira786/bikesharing/blob/master/images/Bikesharing%20Figure%201.png)
 
 ### Top Starting and Ending Locations (Figure 2)
 For research purposes, we understand the top starting and ending locations for CitiBike in NYC based on the heat map below. We will need to consider if Des Moines will have a similar outcome based on local activities and tourist attractions. The assumption is that if Des Moines is becoming a popular city and has tourist attractions, it is likely that locals and visitors will also have a significant number of starting and ending locations.
